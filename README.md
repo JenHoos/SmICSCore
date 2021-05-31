@@ -1,3 +1,5 @@
+#gitignore-test
+
 # SmICS
 
 The Smart Infection Control System (SmICS) is an application for the support of the infection control units in clinics. For the general use it is necessary to connect the application to an openEHR Repository like [ehrbase](https://github.com/ehrbase/ehrbase). It offers different statistics, a patient timeline of the patients locations and a contact network for patients to track possible transmission paths. 
